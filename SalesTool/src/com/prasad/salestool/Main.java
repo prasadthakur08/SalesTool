@@ -14,6 +14,8 @@ public class Main {
 		data.display();
 		displayGreeting();
 		
+		System.out.println("Test 1: Add aSimpe output chnage");
+		
 		
 
 	}
