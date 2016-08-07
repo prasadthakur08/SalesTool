@@ -5,6 +5,10 @@ public class SalesData {
 	int data[]={0,1,2};
 
 	public void display(){
-		System.out.println("TODO : Implement data to dipslay");
+		for(int i=0;i<data.length;i++){
+		
+		System.out.println("Data:"+ data[i]);
+		}
 	}
+		
 }
