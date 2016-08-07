@@ -4,8 +4,8 @@ public class Main {
 	
 	public static void displayGreeting(){
 
-		System.out.println("GOOD MORNING");
-		System.out.println("GOOD Evening");
+		System.out.println("Good morning...");
+		System.out.println("Good evening...");
 	}
 
 	public static void main(String[] args) {
